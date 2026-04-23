@@ -1,7 +1,6 @@
 class superClass:
     a = 10
     
-        
 class subClass(superClass):
     a = 20
     

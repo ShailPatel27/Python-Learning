@@ -1,0 +1,6 @@
+timestamp,currency,name,cost,organization_id,project_id,project_name,organization_name,cost_in_major,date
+1730937600.0,usd,Other models,1.24845,org-YhEzzfPgPYe8I1EdtPrX66ah,proj_XFWyBKIsLOl1ZhHJfmZjTXSY,Jarvis,Personal,0.01248450,2024-11-07
+1731024000.0,usd,Other models,1.4203,org-YhEzzfPgPYe8I1EdtPrX66ah,proj_XFWyBKIsLOl1ZhHJfmZjTXSY,Jarvis,Personal,0.01420300,2024-11-08
+1731196800.0,usd,Other models,0.68225,org-YhEzzfPgPYe8I1EdtPrX66ah,proj_XFWyBKIsLOl1ZhHJfmZjTXSY,Jarvis,Personal,0.00682250,2024-11-10
+1731456000.0,usd,Other models,0.19585,org-YhEzzfPgPYe8I1EdtPrX66ah,proj_XFWyBKIsLOl1ZhHJfmZjTXSY,Jarvis,Personal,0.00195850,2024-11-13
+1731542400.0,usd,Other models,0.7212,org-YhEzzfPgPYe8I1EdtPrX66ah,proj_XFWyBKIsLOl1ZhHJfmZjTXSY,Jarvis,Personal,0.00721200,2024-11-14

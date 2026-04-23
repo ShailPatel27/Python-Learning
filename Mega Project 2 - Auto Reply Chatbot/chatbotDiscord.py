@@ -24,7 +24,7 @@ listener_thread = threading.Thread(target=listen_for_escape)
 listener_thread.start()
 
 # Wait for a moment before performing the action
-time.sleep(5)
+time.sleep(2)
 
 # Step 1: Click on the icon at position (1020, 1050)
 pyautogui.click(1020, 1050)

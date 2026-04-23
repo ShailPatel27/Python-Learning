@@ -1,4 +1,7 @@
 import random
+import pyautogui
+
+pyautogui.size(100, 100)
 num = random.randint(0, 100)
 score = 0
 

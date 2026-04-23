@@ -1,0 +1,12 @@
+# test
+test*
+**/test_images
+
+# python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.cache
+
+# environment
+*env

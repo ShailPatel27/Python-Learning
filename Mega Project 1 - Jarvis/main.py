@@ -6,6 +6,7 @@
 # pip install pyttsx3 
 # pip install requests 
 # pip install openai 
+# pip install pyaudio
 
 import speech_recognition as sr
 import webbrowser

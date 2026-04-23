@@ -1,4 +1,4 @@
-def avg(a, b=5):
+def avg(a, b=7):
     average = (a+b)/2
     print(f"Average of {a} and {b} is: {average}")
     

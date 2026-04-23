@@ -5,7 +5,7 @@ class emp():
     @staticmethod
     def greet():
         print("Hello! Good morning.")
-        # the dunction is marked as static so it can pass display normal data without self
+        # the function is marked as static so it can pass display normal data without self
     
     def getInfo(self):
         print(f"Salary: {self.sal}\nLanguage: {self.language}")
